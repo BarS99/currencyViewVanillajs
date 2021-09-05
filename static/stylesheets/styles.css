@@ -1,0 +1,19 @@
+.currencySelectWrapper {
+    margin-bottom: 25px;
+    display: block;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table td,
+table th {
+    padding: 6px 10px;
+    border: 1px solid #e5e5e5;
+    width: 80px;
+}
+
+table th {
+    background-color: #ebfeff;
+}
